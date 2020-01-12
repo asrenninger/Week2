@@ -4,6 +4,4 @@
 
 This repository contains:
 
-- [Overview of remote sensing](w1_RS.pdf)
-- [Activities: Sentinel Playground](w1_SentinelHub.ipynb)
-- [Homework Assignment #1](HW1.ipynb)
+- [Machine Learning, Basic Concepts](w1_mlbasics.ipynb)
