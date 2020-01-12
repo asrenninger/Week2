@@ -4,4 +4,4 @@
 
 This repository contains:
 
-- [Machine Learning, Basic Concepts](mlbasics.ipynb)
+- [Machine Learning, Basic Concepts](ml_basics.ipynb)
